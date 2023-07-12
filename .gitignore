@@ -20,3 +20,11 @@ bin-release/
 /out/production/bbc-java-intro/README.md
 /.idea/uiDesigner.xml
 /.idea/vcs.xml
+/out/production/bbc-java-intro/.idea/.gitignore
+/out/production/bbc-java-intro/.idea/bbc-java-intro.iml
+/out/production/bbc-java-intro/.idea/codeStyles/codeStyleConfig.xml
+/out/production/bbc-java-intro/.idea/jpa-buddy.xml
+/out/production/bbc-java-intro/.idea/misc.xml
+/out/production/bbc-java-intro/.idea/modules.xml
+/out/production/bbc-java-intro/.idea/codeStyles/Project.xml
+/out/production/bbc-java-intro/.idea/vcs.xml
