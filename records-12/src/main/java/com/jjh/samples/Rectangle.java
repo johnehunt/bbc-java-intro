@@ -11,8 +11,13 @@ public final class Rectangle {
         this.width = width;
     }
 
-    double length() { return this.length; }
-    double width()  { return this.width; }
+    double length() {
+        return this.length;
+    }
+
+    double width() {
+        return this.width;
+    }
 
     public boolean equals(Object o) {
         if (this == o) return true;
