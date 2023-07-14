@@ -1,30 +1,33 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
 
-# Other files and folders
-.settings/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
-/.idea/codeStyles/Project.xml
-/out/production/bbc-java-intro/README.md
-/.idea/uiDesigner.xml
-/.idea/vcs.xml
-/out/production/bbc-java-intro/.idea/.gitignore
-/out/production/bbc-java-intro/.idea/bbc-java-intro.iml
-/out/production/bbc-java-intro/.idea/codeStyles/codeStyleConfig.xml
-/out/production/bbc-java-intro/.idea/jpa-buddy.xml
-/out/production/bbc-java-intro/.idea/misc.xml
-/out/production/bbc-java-intro/.idea/modules.xml
-/out/production/bbc-java-intro/.idea/codeStyles/Project.xml
-/out/production/bbc-java-intro/.idea/vcs.xml
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
